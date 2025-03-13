@@ -1,4 +1,4 @@
-#La Guía del Dev Rookie: De Cero a Héroe (¡Sin Volverse Loco!)
+# La Guía del Dev Rookie: De Cero a Héroe (¡Sin Volverse Loco!)
 
 A continuación se presenta la **Guía Unificada de Programación y Desarrollo de Software**. Esta guía integra los temas esenciales de las distintas guías adjuntas, eliminando repeticiones y organizándolos de forma lógica para facilitar la comprensión a quienes no tienen conocimientos previos en informática.
 
