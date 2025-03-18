@@ -26,6 +26,7 @@ Esta guía busca ser lo suficientemente completa y práctica para acompañarte d
 12. [Organización de Proyectos y Equipos](#12-organización-de-proyectos-y-equipos)
 13. [Temas Avanzados y Complementarios](#13-temas-avanzados-y-complementarios)
 14. [Conclusiones y Próximos Pasos](#14-conclusiones-y-próximos-pasos)
+15. [Historial del Documento](CHANGELOG.md)
 
 ---
 
